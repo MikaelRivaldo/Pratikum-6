@@ -1,2 +1,2 @@
 # Praktikum-6
-Ajax
+ Tugas Pertemuan 2-8
